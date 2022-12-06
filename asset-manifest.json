@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.13c75c62.chunk.css",
-    "main.js": "/static/js/main.e2f07d43.chunk.js",
-    "main.js.map": "/static/js/main.e2f07d43.chunk.js.map",
+    "main.js": "/static/js/main.5bb3086d.chunk.js",
+    "main.js.map": "/static/js/main.5bb3086d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.04b60a55.js",
     "runtime-main.js.map": "/static/js/runtime-main.04b60a55.js.map",
     "static/js/2.7e998de8.chunk.js": "/static/js/2.7e998de8.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/2desember.39d5a428.jpeg": "/static/media/2desember.39d5a428.jpeg",
     "static/media/3desember.84ebc20f.jpeg": "/static/media/3desember.84ebc20f.jpeg",
     "static/media/4desember.a4f126d3.jpeg": "/static/media/4desember.a4f126d3.jpeg",
-    "static/media/advent1.4314d18d.png": "/static/media/advent1.4314d18d.png"
+    "static/media/advent1.4314d18d.png": "/static/media/advent1.4314d18d.png",
+    "static/media/advent2.53ffb9fb.png": "/static/media/advent2.53ffb9fb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.04b60a55.js",
     "static/js/2.7e998de8.chunk.js",
     "static/css/main.13c75c62.chunk.css",
-    "static/js/main.e2f07d43.chunk.js"
+    "static/js/main.5bb3086d.chunk.js"
   ]
 }
